@@ -8,4 +8,4 @@
 Plugins used on CraftNetwork minecraft servers!
 We will not provide you with any kind of support for usage of our plugins!
 
-Have FUN and visit us @ [CraftNetwork](https://www.craft.si)
+Have FUN and visit us @ [CraftNetwork](http://www.craft.si)
