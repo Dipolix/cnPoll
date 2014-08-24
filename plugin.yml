@@ -1,0 +1,12 @@
+name: cnPoll
+main: si.craft.cnPoll.main
+version: 1.0
+author: CraftNetwork
+description: >
+             CraftNetwork Tools!
+
+website: http://www.craft.si
+load: startup
+commands:
+  poll:
+    aliases: [pol]
